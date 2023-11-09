@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Users/ASUS/Videos/CURSOS%20DE%20PLATZI/curso-npm/my-app/build/static/css/main.b5357f78.css",
+    "main.js": "/Users/ASUS/Videos/CURSOS%20DE%20PLATZI/curso-npm/my-app/build/static/js/main.fcc4539e.js",
+    "index.html": "/Users/ASUS/Videos/CURSOS%20DE%20PLATZI/curso-npm/my-app/build/index.html",
+    "static/media/delete.svg": "/Users/ASUS/Videos/CURSOS%20DE%20PLATZI/curso-npm/my-app/build/static/media/delete.253668d653616a4e68d22c69ee5da594.svg",
+    "static/media/check.svg": "/Users/ASUS/Videos/CURSOS%20DE%20PLATZI/curso-npm/my-app/build/static/media/check.38f596e64d38d54463f988385b633c05.svg",
+    "main.b5357f78.css.map": "/Users/ASUS/Videos/CURSOS%20DE%20PLATZI/curso-npm/my-app/build/static/css/main.b5357f78.css.map",
+    "main.fcc4539e.js.map": "/Users/ASUS/Videos/CURSOS%20DE%20PLATZI/curso-npm/my-app/build/static/js/main.fcc4539e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5357f78.css",
+    "static/js/main.fcc4539e.js"
+  ]
+}
